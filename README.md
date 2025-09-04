@@ -10,7 +10,7 @@ Inspired by the clean, concise layout used in my other project README. See refer
 
 ## Screenshot
 
-![Color Sequence](../color-sequence.png)
+![Color Sequence](color-sequence.png)
 
 ## Features
 
@@ -82,5 +82,6 @@ UPI details used on site templates:
 ## License
 
 MIT License. See `footer.php` for inline notice.
+
 
 
